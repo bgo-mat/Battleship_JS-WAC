@@ -1,6 +1,6 @@
 <h1>Battleship - Colle W2</h1>
 
-Ce dépôt contient le travail réalisé durant une après-midi pour la colle W2 - Battleship. Le projet consiste à développer un jeu de bataille navale en JavaScript (ES6).
+Ce dépôt contient le travail réalisé au cours d'une semaine dans le cadre du projet Battleship. Le projet consiste à développer un jeu de bataille navale en JavaScript (ES6).
 Description du Projet
 
 Le but de ce projet est de déboguer et terminer un jeu de bataille navale existant en utilisant JS ES6, sans utiliser de plugins ou librairies externes. Le projet se compose de plusieurs exercices, chacun ajoutant de nouvelles fonctionnalités ou corrigeant des bugs dans l'application.
