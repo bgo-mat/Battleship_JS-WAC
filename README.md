@@ -1,4 +1,4 @@
-<h1>Battleship - Colle W2</h1>
+<h1>Battleship - Refactor WAC 1</h1>
 
 Ce dépôt contient le travail réalisé au cours d'une semaine dans le cadre du projet Battleship. Le projet consiste à développer un jeu de bataille navale en JavaScript (ES6).
 Description du Projet
