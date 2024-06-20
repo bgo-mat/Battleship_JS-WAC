@@ -1,4 +1,4 @@
-<h1>Battleship - Colle W2<h1/>
+<h1>Battleship - Colle W2</h1>
 
 Ce dépôt contient le travail réalisé durant une après-midi pour la colle W2 - Battleship. Le projet consiste à développer un jeu de bataille navale en JavaScript (ES6).
 Description du Projet
